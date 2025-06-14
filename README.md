@@ -21,6 +21,13 @@ sudo apt install maven -y
 
 <br><br>
 
+PostgreSQL Installation
+```bash
+sudo apt install postgresql postgresql-contrib -y
+```
+
+<br><br>
+
 Visit   https://start.spring.io   to download initial project.
 <table>
 <tr><td>Project</td><td>Maven</td></tr>
@@ -30,7 +37,7 @@ Visit   https://start.spring.io   to download initial project.
 <tr><td>Artifact</td><td>mybank</td></tr>
 <tr><td>Packaging</td><td>Jar</td></tr>
 <tr><td>Java</td><td>17</td></tr>
-<tr><td>Dependencies</td><td>Spring Web, Spring Boot DevTools, Spring Data JPA, H2 Database</td></tr>
+<tr><td>Dependencies</td><td>Spring Web, Spring Boot DevTools, Spring Data JPA, PostgreSQL Driver</td></tr>
 </table>
 Click Generate button to download .zip file.<br>
 (If you don't see the button, try F12.)
