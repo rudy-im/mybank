@@ -40,4 +40,6 @@ Visit   https://start.spring.io   to download initial project.
 <tr><td>Dependencies</td><td>Spring Web, Spring Boot DevTools, Spring Data JPA, PostgreSQL Driver</td></tr>
 </table>
 Click Generate button to download .zip file.<br>
-(If you don't see the button, try F12.)
+(If you don't see the button, try F12. Or the short key, Ctrl + Enter.)<br>
+<br>
+Unzip it and move the directory to convenient location.
