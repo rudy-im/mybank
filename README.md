@@ -14,3 +14,14 @@ Maven Installation (for Spring)
 ```bash
 sudo apt install maven -y
 ```
+
+Visit   https://start.spring.io   to download initial project.
+Project       Maven
+Language      Java
+SpringBoot    3.5.0
+Group         com.example
+Artifact      mybank
+Packaging     Jar
+Java          17
+Dependencies  Spring Web, Spring Boot DevTools, Spring Data JPA, H2 Database
+
