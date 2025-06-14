@@ -4,16 +4,22 @@
 
 This project is tested on VirtualBox, Ubuntu environment.
 
+<br><br>
+
 Java Installation (JDK 17)
 ```bash
 sudo apt update
 sudo apt install openjdk-17-jdk -y
 ```
 
+<br><br>
+
 Maven Installation (for Spring)
 ```bash
 sudo apt install maven -y
 ```
+
+<br><br>
 
 Visit   https://start.spring.io   to download initial project.
 <table>
