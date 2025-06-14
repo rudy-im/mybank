@@ -16,12 +16,13 @@ sudo apt install maven -y
 ```
 
 Visit   https://start.spring.io   to download initial project.
-Project       Maven
-Language      Java
-SpringBoot    3.5.0
-Group         com.example
-Artifact      mybank
-Packaging     Jar
-Java          17
-Dependencies  Spring Web, Spring Boot DevTools, Spring Data JPA, H2 Database
-
+<table>
+<tr><td>Project</td><td>Maven</td></tr>
+<tr><td>Language</td><td>Java</td></tr>
+<tr><td>SpringBoot</td><td>3.5.0</td></tr>
+<tr><td>Group</td><td>com.example</td></tr>
+<tr><td>Artifact</td><td>mybank</td></tr>
+<tr><td>Packaging</td><td>Jar</td></tr>
+<tr><td>Java</td><td>17</td></tr>
+<tr><td>Dependencies</td><td>Spring Web, Spring Boot DevTools, Spring Data JPA, H2 Database</td></tr>
+</table>
